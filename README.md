@@ -1,4 +1,6 @@
 # vt_passive_dns
+Python 3
+
 Virus Total Passive DNS Script
 
 I wrote this script so I could do some basic
